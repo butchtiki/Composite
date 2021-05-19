@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{134B27C2-43A8-4984-9A26-3DC7AB5E98B9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Composite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../CompositeTest/PlayerTest.cs">
+    <Files>
+      <File FileName="Program.cs" Line="2" Column="1" />
+      <File FileName="IDrawable.cs" Line="6" Column="19" />
+      <File FileName="Player.cs" Line="12" Column="44" />
+      <File FileName="CompositeDrawable.cs" Line="15" Column="23" />
+      <File FileName="Mountain.cs" Line="8" Column="1" />
+      <File FileName="../CompositeTest/UnitTest1.cs" Line="43" Column="10" />
+      <File FileName="../CompositeTest/Stubs/StubDrawable.cs" Line="12" Column="10" />
+      <File FileName="../CompositeTest/PlayerTest.cs" Line="1" Column="2" />
+      <File FileName="../CompositeTest/MountainTest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Composite" expanded="True">
+            <Node name="Composite" expanded="True" />
+            <Node name="CompositeTest" expanded="True">
+              <Node name="Stubs" expanded="True" />
+              <Node name="PlayerTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Composite" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CompositeTest FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

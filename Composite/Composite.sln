@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite.csproj", "{134B27C2-43A8-4984-9A26-3DC7AB5E98B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeTest", "..\CompositeTest\CompositeTest.csproj", "{F424943E-E30A-43A7-96D0-E8CFDCAB865E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{134B27C2-43A8-4984-9A26-3DC7AB5E98B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134B27C2-43A8-4984-9A26-3DC7AB5E98B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134B27C2-43A8-4984-9A26-3DC7AB5E98B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134B27C2-43A8-4984-9A26-3DC7AB5E98B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F424943E-E30A-43A7-96D0-E8CFDCAB865E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F424943E-E30A-43A7-96D0-E8CFDCAB865E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F424943E-E30A-43A7-96D0-E8CFDCAB865E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F424943E-E30A-43A7-96D0-E8CFDCAB865E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFADE1DE-4432-4E00-8D46-B78CBD144690}
+	EndGlobalSection
+EndGlobal

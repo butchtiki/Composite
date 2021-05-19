@@ -1,0 +1,12 @@
+/Users/fhayedavila/Projects/Composite/Composite/bin/Debug/netcoreapp3.1/Composite.deps.json
+/Users/fhayedavila/Projects/Composite/Composite/bin/Debug/netcoreapp3.1/Composite.runtimeconfig.json
+/Users/fhayedavila/Projects/Composite/Composite/bin/Debug/netcoreapp3.1/Composite.runtimeconfig.dev.json
+/Users/fhayedavila/Projects/Composite/Composite/bin/Debug/netcoreapp3.1/Composite.dll
+/Users/fhayedavila/Projects/Composite/Composite/bin/Debug/netcoreapp3.1/Composite.pdb
+/Users/fhayedavila/Projects/Composite/Composite/obj/Debug/netcoreapp3.1/Composite.csprojAssemblyReference.cache
+/Users/fhayedavila/Projects/Composite/Composite/obj/Debug/netcoreapp3.1/Composite.AssemblyInfoInputs.cache
+/Users/fhayedavila/Projects/Composite/Composite/obj/Debug/netcoreapp3.1/Composite.AssemblyInfo.cs
+/Users/fhayedavila/Projects/Composite/Composite/obj/Debug/netcoreapp3.1/Composite.csproj.CoreCompileInputs.cache
+/Users/fhayedavila/Projects/Composite/Composite/obj/Debug/netcoreapp3.1/Composite.dll
+/Users/fhayedavila/Projects/Composite/Composite/obj/Debug/netcoreapp3.1/Composite.pdb
+/Users/fhayedavila/Projects/Composite/Composite/obj/Debug/netcoreapp3.1/Composite.genruntimeconfig.cache
